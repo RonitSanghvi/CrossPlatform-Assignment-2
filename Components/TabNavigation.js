@@ -2,9 +2,9 @@ import React from 'react'
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { Ionicons } from '@expo/vector-icons';
 
-import Welcome from './Pages/Welcome';
-import AboutUs from './Pages/AboutUs';
-import Settings from './Pages/Settings';
+import Welcome from '../Pages/Welcome';
+import AboutUs from '../Pages/AboutUs';
+import Settings from '../Pages/Settings';
 
 function TabNavigation({route, navigation}) {
 

@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 
-import TabNavigation from './TabNavigation';
+import TabNavigation from './Components/TabNavigation';
 import Signup from './Pages/Signup';
 import Login from './Pages/Login';
 
